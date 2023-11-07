@@ -1,7 +1,7 @@
 # Hi there, I'm Jeremy Kulcsar 👋
 
 Currently based in Hong Kong, I'm an AI Engineer in the field of insurance and wealth management.   
-I work mainly on Generative AI / LLMs and quantitative investment strategies.
+I work mainly on Generative AI / LLMs and portfolio construction strategies. Testing algo trading stuff on the side.
 
 ### Education
 - Bachelor's Degree of Applied Physics from Paris-Saclay University
