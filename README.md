@@ -5,12 +5,6 @@ I work mainly on Generative AI / LLMs and portfolio construction strategies. Tes
 
 I also built and led a series of deep learning masterclasses to the French Ministry of Defense at some point. Teaching math is fun.
 
-### Education
-- Bachelor's Degree of Applied Physics from Paris-Saclay University
-- Master's Degree in Computer Science from Ecole Centrale Paris
-- Master's Degree in Business Management from ESSEC Business School
-- MOOCs from MITx and other platforms on financial mathematics and algorithmic trading
-
 ### Experience
 - Senior AI Engineer, AIA (Hong Kong)
 - Data Scientist, PwC (France)
@@ -20,3 +14,9 @@ I also built and led a series of deep learning masterclasses to the French Minis
 ### Freelance projects
 - Data Engineering and Visualisation for a financial information company (France)
 - Data center and OS version management for a Hong Kong governmental institution (Hong Kong)
+
+### Education
+- Bachelor's Degree of Applied Physics from Paris-Saclay University
+- Master's Degree in Computer Science from Ecole Centrale Paris
+- Master's Degree in Business Management from ESSEC Business School
+- MOOCs from MITx and other platforms on financial mathematics and algorithmic trading
