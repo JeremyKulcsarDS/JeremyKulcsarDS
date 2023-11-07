@@ -1,18 +1,20 @@
-### Hi there, I'm Jeremy 👋
+# Hi there, I'm Jeremy Kulcsar 👋
 
-👋 Hello there! I'm Jeremy Kulcsar, an AI Engineer currently based in Hong Kong, working for AIA and owning my own company, Diamond Hill. My expertise lies in the field of Generative AI and LLMs, but I also worked on projects related to quantitative finance and portfolio construction.
+Currently based in Hong Kong, I'm an AI Engineer in the field of insurance and wealth management.   
+I work mainly on Generative AI / LLMs and quantitative investment strategies.
 
-## Education
+### Education
 - Bachelor's Degree of Applied Physics from Paris-Saclay University
 - Master's Degree in Computer Science from Ecole Centrale Paris
 - Master's Degree in Business Management from ESSEC Business School
+- MOOCs from MITx and other platforms on financial mathematics and algorithmic trading
 
-## Experience
-- Senior AI Engineer at AIA (Hong Kong)
+### Experience
+- Senior AI Engineer, AIA (Hong Kong)
 - Data Scientist, PwC (France)
-- Data Scientist, Deloitte (France)
+- Data Scientist, Deloitte Consulting (France)
 - Data Scientist, Credit Agricole CIB (France)
 
-## Freelance projects
-- Data Engineering for a financial information company
-- Data center and OS update management for a Hong Kong governmental institution
+### Freelance projects
+- Data Engineering and Visualisation for a financial information company (France)
+- Data center and OS version management for a Hong Kong governmental institution (Hong Kong)
