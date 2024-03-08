@@ -3,7 +3,9 @@
 Currently based in Hong Kong, I'm an AI Engineer in the field of insurance and wealth management.  
 I work mainly on Generative AI / LLMs.
 
-I also built and led a series of deep learning masterclasses to the French Ministry of Defense at some point. Teaching math is fun.
+Currently actively working on [AgentX, a minimal library for developing intelligent applications with large language model agents.](https://github.com/JeremyKulcsarDS/agentx)
+
+I also built and led a series of deep learning masterclasses to the French Ministry of Defense at some point.
 
 ### Experience
 - Senior AI Engineer, AIA (Hong Kong)
