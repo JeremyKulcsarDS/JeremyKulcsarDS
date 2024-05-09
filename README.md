@@ -3,7 +3,7 @@
 Currently based in Hong Kong, I'm an AI Engineer in the field of insurance and wealth management.  
 I work mainly on Generative AI / LLMs.
 
-Currently actively working on [AgentX, a minimal library for developing intelligent applications with large language model agents.](https://github.com/JeremyKulcsarDS/agentx)
+Currently actively working on [SiumAI, a minimal library for developing intelligent applications with large language model agents.](https://github.com/JeremyKulcsarDS/siumai)
 
 I also built and led a series of deep learning masterclasses to the French Ministry of Defense at some point.
 
