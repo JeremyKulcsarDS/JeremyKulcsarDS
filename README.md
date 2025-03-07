@@ -1,11 +1,9 @@
 # Hi there, I'm Jeremy Kulcsar 👋
 
-Currently based in Hong Kong, I'm an AI Engineer in the field of insurance and wealth management.  
-I work mainly on Generative AI / LLMs.
+Currently based in Hong Kong, I'm an AI Research Scientist in the field of Finance.  
+I work on stuff like quant finance, NLP (those good old LLMs) and Causality.
 
-Currently actively working on [SiumAI, a minimal library for developing intelligent applications with large language model agents.](https://github.com/JeremyKulcsarDS/siumai)
-
-I also built and led a series of deep learning masterclasses to the French Ministry of Defense at some point.
+I also built and led a series of deep learning classes to the French Ministry of Defense at some point.
 
 ### Experience
 - Senior AI Engineer, AIA (Hong Kong)
