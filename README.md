@@ -1,7 +1,7 @@
 # Hi there, I'm Jeremy Kulcsar 👋
 
 Currently based in Hong Kong, I'm an AI Research Scientist in the field of Finance.  
-I work on stuff like quant finance, NLP (those good old LLMs) and Causality.
+I work on stuff like Quant Finance, NLP (those good old LLMs) and Causality.
 
 I also built and led a series of deep learning classes to the French Ministry of Defense at some point.
 
