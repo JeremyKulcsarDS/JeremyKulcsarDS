@@ -7,9 +7,9 @@ I also built and led a series of deep learning classes to the French Ministry of
 
 ### Experience
 - AI Research Scientist, Bank (Hong Kong)
-- Senior AI Engineer, AIA (Hong Kong)
-- Data Scientist, PwC (France)
-- Data Scientist, Credit Agricole CIB (France)
+- Senior AI Engineer, Insurance (Hong Kong)
+- Data Scientist, Consulting Firm (France)
+- Data Scientist, Investment Bank (France)
 
 ### Freelance projects
 - Data Engineering and Visualisation for a financial information company (Web scraping, data processing, BI)
